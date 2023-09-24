@@ -1,4 +1,4 @@
-your_name = "Ifeanyi Chibuike Osigwe"
+My_name = "Ifeanyi Chibuike Osigwe"
 Major = "Information Systems and Science"
 Hobby = "Soccer","chess"
 
