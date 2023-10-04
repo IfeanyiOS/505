@@ -29,4 +29,3 @@ subtract = number1-number2
 division = (number1/number2)
 # step 9
 print(add,mult,subtract,division)
-
